@@ -1,6 +1,6 @@
 ## About Me  
 
-### <div align="center">Hi 👋 , I am K Shravan, currently studying B.E in Computer Science and Engineering at N.M.A.M.I.T, Nitte 😄</div>  
+### <div align="center">Hi 👋 , I am K Shravan, currently studying B.E in Computer Science and Engineering at N.M.A.M.I.T, Nitte</div>  
   
 
 - 🔭 I’m currently working on [CinemaDen-A community for Movie Lovers ](https://github.com/dark-coder-144/CinemaDen)  
