@@ -9,7 +9,8 @@
 -  I’m currently learning Digital Forensics 🔎
 
 - Also interested in Machine Learning 💻  
-   
+
+- 📫 How to reach me **shravan2002k@gmail.com**
 
 - ⚡ Fun fact: Love to debug errors 😈  
   
@@ -66,9 +67,20 @@
 
 <br/>  
 
+## Coding Profiles
+  <a href="https://www.codechef.com/users/shravan_1802" target="blank">**Codechef**</a>
+  <a href="https://www.hackerrank.com/shravan2002k" target="blank">**Hackerrank**</a>
+  <a href="https://codeforces.com/profile/shravan2002k" target="blank">**Codeforces**</a>
+  <a href="https://www.leetcode.com/shravan2002k" target="blank">**LeetCode**</a>
+  <a href="https://www.hackerearth.com/@shravan2002k" target="blank">**Hackerearth**</a>
+  <a href="https://auth.geeksforgeeks.org/user/shravan2002k" target="blank">**GeeksForGeeks**</a>
+
+
+<br/>
 
 ## Connect with me  
 <div align="center">
+
 <a href="https://github.com/dark-coder-144" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
