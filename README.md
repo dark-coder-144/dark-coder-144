@@ -68,11 +68,11 @@
 <br/>  
 
 ## Coding Profiles
-  <a href="https://www.codechef.com/users/shravan_1802" target="blank">**Codechef**</a>
+  
   <a href="https://www.hackerrank.com/shravan2002k" target="blank">**Hackerrank**</a>
-  <a href="https://codeforces.com/profile/shravan2002k" target="blank">**Codeforces**</a>
+  
   <a href="https://www.leetcode.com/shravan2002k" target="blank">**LeetCode**</a>
-  <a href="https://www.hackerearth.com/@shravan2002k" target="blank">**Hackerearth**</a>
+  
   <a href="https://auth.geeksforgeeks.org/user/shravan2002k" target="blank">**GeeksForGeeks**</a>
 
 
