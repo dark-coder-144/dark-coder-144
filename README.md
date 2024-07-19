@@ -1,14 +1,9 @@
 ## About Me  
 
-### <div align="center">Hi 👋 , I am K Shravan, currently studying B.E in Computer Science and Engineering at N.M.A.M.I.T, Nitte</div>  
-  
-
-- 🔭 I’m currently working on [CinemaDen-A community for Movie Lovers ](https://github.com/dark-coder-144/CinemaDen)  
-  
+### <div align="center">Hi 👋 , I am K Shravan, recently graduated at NMAM Institute of Technology in Computer Science and Engineering</div>  
+    
 
 -  I’m currently learning Digital Forensics 🔎
-
-- Also interested in Machine Learning 💻  
 
 - 📫 How to reach me **shravan2002k@gmail.com**
 
